@@ -1,0 +1,649 @@
+Month,OEM,Powertrain,Product_Category,Sales_Volume,Light_Vehicle_Production_Index,EV_Hybrid_Penetration_Pct,GDP_Growth_Pct,Interest_Rate_Pct,Steel_Price_Index,Energy_Logistics_Index,Emission_Norms_Status,OEM_Production_Status
+2025-01,OEM_A_Global,ICE,Deep Groove Ball Bearings,17711,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_A_Global,ICE,Angular Contact Ball Bearings,4199,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_A_Global,ICE,Self-Aligning Ball Bearings,2491,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_A_Global,ICE,Thrust Ball Bearings,4249,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_A_Global,ICE,Wheel Hub Bearing Units,28650,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_A_Global,ICE,Miniature & Hybrid Ceramic Bearings,1225,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_A_Global,EV,Deep Groove Ball Bearings,18163,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_A_Global,EV,Angular Contact Ball Bearings,5897,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_A_Global,EV,Self-Aligning Ball Bearings,2329,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_A_Global,EV,Thrust Ball Bearings,830,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_A_Global,EV,Wheel Hub Bearing Units,28732,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_A_Global,EV,Miniature & Hybrid Ceramic Bearings,1849,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_A_Global,Hybrid,Deep Groove Ball Bearings,18263,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_A_Global,Hybrid,Angular Contact Ball Bearings,5755,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_A_Global,Hybrid,Self-Aligning Ball Bearings,2400,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_A_Global,Hybrid,Thrust Ball Bearings,832,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_A_Global,Hybrid,Wheel Hub Bearing Units,28119,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_A_Global,Hybrid,Miniature & Hybrid Ceramic Bearings,1540,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_B_Euro,ICE,Deep Groove Ball Bearings,11905,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_B_Euro,ICE,Angular Contact Ball Bearings,2539,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_B_Euro,ICE,Self-Aligning Ball Bearings,1583,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_B_Euro,ICE,Thrust Ball Bearings,2860,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_B_Euro,ICE,Wheel Hub Bearing Units,20442,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_B_Euro,ICE,Miniature & Hybrid Ceramic Bearings,808,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_B_Euro,EV,Deep Groove Ball Bearings,12205,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_B_Euro,EV,Angular Contact Ball Bearings,4088,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_B_Euro,EV,Self-Aligning Ball Bearings,1408,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_B_Euro,EV,Thrust Ball Bearings,559,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_B_Euro,EV,Wheel Hub Bearing Units,19348,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_B_Euro,EV,Miniature & Hybrid Ceramic Bearings,1646,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_B_Euro,Hybrid,Deep Groove Ball Bearings,11980,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_B_Euro,Hybrid,Angular Contact Ball Bearings,4163,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_B_Euro,Hybrid,Self-Aligning Ball Bearings,1596,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_B_Euro,Hybrid,Thrust Ball Bearings,524,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_B_Euro,Hybrid,Wheel Hub Bearing Units,19996,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_B_Euro,Hybrid,Miniature & Hybrid Ceramic Bearings,1199,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_C_Eco,ICE,Deep Groove Ball Bearings,7943,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_C_Eco,ICE,Angular Contact Ball Bearings,1318,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_C_Eco,ICE,Self-Aligning Ball Bearings,1140,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_C_Eco,ICE,Thrust Ball Bearings,1539,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_C_Eco,ICE,Wheel Hub Bearing Units,12421,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_C_Eco,ICE,Miniature & Hybrid Ceramic Bearings,609,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_C_Eco,EV,Deep Groove Ball Bearings,7053,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_C_Eco,EV,Angular Contact Ball Bearings,2790,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_C_Eco,EV,Self-Aligning Ball Bearings,1009,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_C_Eco,EV,Thrust Ball Bearings,334,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_C_Eco,EV,Wheel Hub Bearing Units,11140,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_C_Eco,EV,Miniature & Hybrid Ceramic Bearings,1226,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_C_Eco,Hybrid,Deep Groove Ball Bearings,7017,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_C_Eco,Hybrid,Angular Contact Ball Bearings,2998,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_C_Eco,Hybrid,Self-Aligning Ball Bearings,908,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_C_Eco,Hybrid,Thrust Ball Bearings,396,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_C_Eco,Hybrid,Wheel Hub Bearing Units,11600,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-01,OEM_C_Eco,Hybrid,Miniature & Hybrid Ceramic Bearings,845,100.75,18.07,2.07,6.52,121.03,111.28,Pre-Euro 7,Normal Production
+2025-02,OEM_A_Global,ICE,Deep Groove Ball Bearings,18480,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_A_Global,ICE,Angular Contact Ball Bearings,4053,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_A_Global,ICE,Self-Aligning Ball Bearings,2422,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_A_Global,ICE,Thrust Ball Bearings,4296,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_A_Global,ICE,Wheel Hub Bearing Units,28390,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_A_Global,ICE,Miniature & Hybrid Ceramic Bearings,1209,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_A_Global,EV,Deep Groove Ball Bearings,18205,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_A_Global,EV,Angular Contact Ball Bearings,5859,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_A_Global,EV,Self-Aligning Ball Bearings,2276,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_A_Global,EV,Thrust Ball Bearings,800,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_A_Global,EV,Wheel Hub Bearing Units,29656,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_A_Global,EV,Miniature & Hybrid Ceramic Bearings,1937,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_A_Global,Hybrid,Deep Groove Ball Bearings,18201,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_A_Global,Hybrid,Angular Contact Ball Bearings,5772,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_A_Global,Hybrid,Self-Aligning Ball Bearings,2331,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_A_Global,Hybrid,Thrust Ball Bearings,846,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_A_Global,Hybrid,Wheel Hub Bearing Units,29520,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_A_Global,Hybrid,Miniature & Hybrid Ceramic Bearings,1525,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_B_Euro,ICE,Deep Groove Ball Bearings,12977,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_B_Euro,ICE,Angular Contact Ball Bearings,2794,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_B_Euro,ICE,Self-Aligning Ball Bearings,1480,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_B_Euro,ICE,Thrust Ball Bearings,2798,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_B_Euro,ICE,Wheel Hub Bearing Units,18984,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_B_Euro,ICE,Miniature & Hybrid Ceramic Bearings,839,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_B_Euro,EV,Deep Groove Ball Bearings,12626,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_B_Euro,EV,Angular Contact Ball Bearings,3938,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_B_Euro,EV,Self-Aligning Ball Bearings,1696,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_B_Euro,EV,Thrust Ball Bearings,572,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_B_Euro,EV,Wheel Hub Bearing Units,20053,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_B_Euro,EV,Miniature & Hybrid Ceramic Bearings,1617,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_B_Euro,Hybrid,Deep Groove Ball Bearings,11929,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_B_Euro,Hybrid,Angular Contact Ball Bearings,3952,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_B_Euro,Hybrid,Self-Aligning Ball Bearings,1511,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_B_Euro,Hybrid,Thrust Ball Bearings,535,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_B_Euro,Hybrid,Wheel Hub Bearing Units,19518,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_B_Euro,Hybrid,Miniature & Hybrid Ceramic Bearings,1178,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_C_Eco,ICE,Deep Groove Ball Bearings,7669,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_C_Eco,ICE,Angular Contact Ball Bearings,1665,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_C_Eco,ICE,Self-Aligning Ball Bearings,1001,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_C_Eco,ICE,Thrust Ball Bearings,1868,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_C_Eco,ICE,Wheel Hub Bearing Units,12070,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_C_Eco,ICE,Miniature & Hybrid Ceramic Bearings,636,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_C_Eco,EV,Deep Groove Ball Bearings,7842,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_C_Eco,EV,Angular Contact Ball Bearings,2731,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_C_Eco,EV,Self-Aligning Ball Bearings,892,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_C_Eco,EV,Thrust Ball Bearings,364,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_C_Eco,EV,Wheel Hub Bearing Units,12094,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_C_Eco,EV,Miniature & Hybrid Ceramic Bearings,1258,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_C_Eco,Hybrid,Deep Groove Ball Bearings,7766,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_C_Eco,Hybrid,Angular Contact Ball Bearings,2888,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_C_Eco,Hybrid,Self-Aligning Ball Bearings,915,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_C_Eco,Hybrid,Thrust Ball Bearings,304,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_C_Eco,Hybrid,Wheel Hub Bearing Units,11962,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-02,OEM_C_Eco,Hybrid,Miniature & Hybrid Ceramic Bearings,904,101.16,18.06,2.13,6.24,127.21,111.09,Pre-Euro 7,Normal Production
+2025-03,OEM_A_Global,ICE,Deep Groove Ball Bearings,18348,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_A_Global,ICE,Angular Contact Ball Bearings,4050,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_A_Global,ICE,Self-Aligning Ball Bearings,2417,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_A_Global,ICE,Thrust Ball Bearings,4057,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_A_Global,ICE,Wheel Hub Bearing Units,27773,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_A_Global,ICE,Miniature & Hybrid Ceramic Bearings,1207,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_A_Global,EV,Deep Groove Ball Bearings,18271,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_A_Global,EV,Angular Contact Ball Bearings,5509,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_A_Global,EV,Self-Aligning Ball Bearings,2435,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_A_Global,EV,Thrust Ball Bearings,856,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_A_Global,EV,Wheel Hub Bearing Units,28922,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_A_Global,EV,Miniature & Hybrid Ceramic Bearings,2002,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_A_Global,Hybrid,Deep Groove Ball Bearings,17570,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_A_Global,Hybrid,Angular Contact Ball Bearings,5550,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_A_Global,Hybrid,Self-Aligning Ball Bearings,2451,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_A_Global,Hybrid,Thrust Ball Bearings,855,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_A_Global,Hybrid,Wheel Hub Bearing Units,28590,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_A_Global,Hybrid,Miniature & Hybrid Ceramic Bearings,1767,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_B_Euro,ICE,Deep Groove Ball Bearings,12441,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_B_Euro,ICE,Angular Contact Ball Bearings,2927,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_B_Euro,ICE,Self-Aligning Ball Bearings,1695,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_B_Euro,ICE,Thrust Ball Bearings,2697,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_B_Euro,ICE,Wheel Hub Bearing Units,18675,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_B_Euro,ICE,Miniature & Hybrid Ceramic Bearings,837,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_B_Euro,EV,Deep Groove Ball Bearings,11784,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_B_Euro,EV,Angular Contact Ball Bearings,4090,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_B_Euro,EV,Self-Aligning Ball Bearings,1551,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_B_Euro,EV,Thrust Ball Bearings,562,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_B_Euro,EV,Wheel Hub Bearing Units,20211,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_B_Euro,EV,Miniature & Hybrid Ceramic Bearings,1456,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_B_Euro,Hybrid,Deep Groove Ball Bearings,12497,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_B_Euro,Hybrid,Angular Contact Ball Bearings,3815,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_B_Euro,Hybrid,Self-Aligning Ball Bearings,1552,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_B_Euro,Hybrid,Thrust Ball Bearings,592,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_B_Euro,Hybrid,Wheel Hub Bearing Units,18897,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_B_Euro,Hybrid,Miniature & Hybrid Ceramic Bearings,1121,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_C_Eco,ICE,Deep Groove Ball Bearings,7251,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_C_Eco,ICE,Angular Contact Ball Bearings,1635,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_C_Eco,ICE,Self-Aligning Ball Bearings,926,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_C_Eco,ICE,Thrust Ball Bearings,1582,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_C_Eco,ICE,Wheel Hub Bearing Units,11814,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_C_Eco,ICE,Miniature & Hybrid Ceramic Bearings,467,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_C_Eco,EV,Deep Groove Ball Bearings,8649,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_C_Eco,EV,Angular Contact Ball Bearings,3064,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_C_Eco,EV,Self-Aligning Ball Bearings,797,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_C_Eco,EV,Thrust Ball Bearings,355,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_C_Eco,EV,Wheel Hub Bearing Units,11401,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_C_Eco,EV,Miniature & Hybrid Ceramic Bearings,1292,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_C_Eco,Hybrid,Deep Groove Ball Bearings,7214,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_C_Eco,Hybrid,Angular Contact Ball Bearings,2914,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_C_Eco,Hybrid,Self-Aligning Ball Bearings,1050,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_C_Eco,Hybrid,Thrust Ball Bearings,375,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_C_Eco,Hybrid,Wheel Hub Bearing Units,11086,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-03,OEM_C_Eco,Hybrid,Miniature & Hybrid Ceramic Bearings,858,103.7,18.76,2.1,6.24,142.62,109.07,Pre-Euro 7,Normal Production
+2025-04,OEM_A_Global,ICE,Deep Groove Ball Bearings,18459,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_A_Global,ICE,Angular Contact Ball Bearings,4169,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_A_Global,ICE,Self-Aligning Ball Bearings,2576,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_A_Global,ICE,Thrust Ball Bearings,3960,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_A_Global,ICE,Wheel Hub Bearing Units,29264,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_A_Global,ICE,Miniature & Hybrid Ceramic Bearings,1245,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_A_Global,EV,Deep Groove Ball Bearings,19726,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_A_Global,EV,Angular Contact Ball Bearings,5993,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_A_Global,EV,Self-Aligning Ball Bearings,2248,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_A_Global,EV,Thrust Ball Bearings,825,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_A_Global,EV,Wheel Hub Bearing Units,30737,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_A_Global,EV,Miniature & Hybrid Ceramic Bearings,1954,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_A_Global,Hybrid,Deep Groove Ball Bearings,18907,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_A_Global,Hybrid,Angular Contact Ball Bearings,5941,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_A_Global,Hybrid,Self-Aligning Ball Bearings,2307,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_A_Global,Hybrid,Thrust Ball Bearings,838,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_A_Global,Hybrid,Wheel Hub Bearing Units,28109,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_A_Global,Hybrid,Miniature & Hybrid Ceramic Bearings,1543,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_B_Euro,ICE,Deep Groove Ball Bearings,12337,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_B_Euro,ICE,Angular Contact Ball Bearings,2450,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_B_Euro,ICE,Self-Aligning Ball Bearings,1763,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_B_Euro,ICE,Thrust Ball Bearings,2285,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_B_Euro,ICE,Wheel Hub Bearing Units,19742,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_B_Euro,ICE,Miniature & Hybrid Ceramic Bearings,806,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_B_Euro,EV,Deep Groove Ball Bearings,13164,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_B_Euro,EV,Angular Contact Ball Bearings,3899,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_B_Euro,EV,Self-Aligning Ball Bearings,1716,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_B_Euro,EV,Thrust Ball Bearings,560,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_B_Euro,EV,Wheel Hub Bearing Units,19427,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_B_Euro,EV,Miniature & Hybrid Ceramic Bearings,1612,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_B_Euro,Hybrid,Deep Groove Ball Bearings,12557,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_B_Euro,Hybrid,Angular Contact Ball Bearings,4066,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_B_Euro,Hybrid,Self-Aligning Ball Bearings,1606,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_B_Euro,Hybrid,Thrust Ball Bearings,548,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_B_Euro,Hybrid,Wheel Hub Bearing Units,20065,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_B_Euro,Hybrid,Miniature & Hybrid Ceramic Bearings,1227,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_C_Eco,ICE,Deep Groove Ball Bearings,8562,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_C_Eco,ICE,Angular Contact Ball Bearings,1252,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_C_Eco,ICE,Self-Aligning Ball Bearings,1213,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_C_Eco,ICE,Thrust Ball Bearings,1157,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_C_Eco,ICE,Wheel Hub Bearing Units,12411,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_C_Eco,ICE,Miniature & Hybrid Ceramic Bearings,529,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_C_Eco,EV,Deep Groove Ball Bearings,7925,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_C_Eco,EV,Angular Contact Ball Bearings,2862,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_C_Eco,EV,Self-Aligning Ball Bearings,979,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_C_Eco,EV,Thrust Ball Bearings,335,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_C_Eco,EV,Wheel Hub Bearing Units,12156,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_C_Eco,EV,Miniature & Hybrid Ceramic Bearings,1332,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_C_Eco,Hybrid,Deep Groove Ball Bearings,7962,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_C_Eco,Hybrid,Angular Contact Ball Bearings,2848,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_C_Eco,Hybrid,Self-Aligning Ball Bearings,1089,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_C_Eco,Hybrid,Thrust Ball Bearings,359,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_C_Eco,Hybrid,Wheel Hub Bearing Units,12973,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-04,OEM_C_Eco,Hybrid,Miniature & Hybrid Ceramic Bearings,926,106.38,19.74,2.2,6.33,143.84,108.3,Pre-Euro 7,Normal Production
+2025-05,OEM_A_Global,ICE,Deep Groove Ball Bearings,18141,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_A_Global,ICE,Angular Contact Ball Bearings,4187,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_A_Global,ICE,Self-Aligning Ball Bearings,2474,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_A_Global,ICE,Thrust Ball Bearings,3891,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_A_Global,ICE,Wheel Hub Bearing Units,29570,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_A_Global,ICE,Miniature & Hybrid Ceramic Bearings,1205,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_A_Global,EV,Deep Groove Ball Bearings,19173,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_A_Global,EV,Angular Contact Ball Bearings,5693,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_A_Global,EV,Self-Aligning Ball Bearings,2454,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_A_Global,EV,Thrust Ball Bearings,833,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_A_Global,EV,Wheel Hub Bearing Units,29455,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_A_Global,EV,Miniature & Hybrid Ceramic Bearings,2064,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_A_Global,Hybrid,Deep Groove Ball Bearings,18952,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_A_Global,Hybrid,Angular Contact Ball Bearings,5974,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_A_Global,Hybrid,Self-Aligning Ball Bearings,2530,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_A_Global,Hybrid,Thrust Ball Bearings,840,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_A_Global,Hybrid,Wheel Hub Bearing Units,29982,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_A_Global,Hybrid,Miniature & Hybrid Ceramic Bearings,1589,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_B_Euro,ICE,Deep Groove Ball Bearings,12523,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_B_Euro,ICE,Angular Contact Ball Bearings,2673,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_B_Euro,ICE,Self-Aligning Ball Bearings,1609,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_B_Euro,ICE,Thrust Ball Bearings,2489,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_B_Euro,ICE,Wheel Hub Bearing Units,19242,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_B_Euro,ICE,Miniature & Hybrid Ceramic Bearings,904,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_B_Euro,EV,Deep Groove Ball Bearings,11871,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_B_Euro,EV,Angular Contact Ball Bearings,3969,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_B_Euro,EV,Self-Aligning Ball Bearings,1715,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_B_Euro,EV,Thrust Ball Bearings,583,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_B_Euro,EV,Wheel Hub Bearing Units,20087,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_B_Euro,EV,Miniature & Hybrid Ceramic Bearings,1641,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_B_Euro,Hybrid,Deep Groove Ball Bearings,12358,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_B_Euro,Hybrid,Angular Contact Ball Bearings,4032,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_B_Euro,Hybrid,Self-Aligning Ball Bearings,1607,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_B_Euro,Hybrid,Thrust Ball Bearings,539,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_B_Euro,Hybrid,Wheel Hub Bearing Units,20293,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_B_Euro,Hybrid,Miniature & Hybrid Ceramic Bearings,1197,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_C_Eco,ICE,Deep Groove Ball Bearings,7323,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_C_Eco,ICE,Angular Contact Ball Bearings,1435,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_C_Eco,ICE,Self-Aligning Ball Bearings,1041,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_C_Eco,ICE,Thrust Ball Bearings,1265,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_C_Eco,ICE,Wheel Hub Bearing Units,11844,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_C_Eco,ICE,Miniature & Hybrid Ceramic Bearings,512,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_C_Eco,EV,Deep Groove Ball Bearings,7848,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_C_Eco,EV,Angular Contact Ball Bearings,2910,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_C_Eco,EV,Self-Aligning Ball Bearings,952,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_C_Eco,EV,Thrust Ball Bearings,356,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_C_Eco,EV,Wheel Hub Bearing Units,11477,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_C_Eco,EV,Miniature & Hybrid Ceramic Bearings,1239,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_C_Eco,Hybrid,Deep Groove Ball Bearings,7375,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_C_Eco,Hybrid,Angular Contact Ball Bearings,2969,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_C_Eco,Hybrid,Self-Aligning Ball Bearings,1031,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_C_Eco,Hybrid,Thrust Ball Bearings,394,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_C_Eco,Hybrid,Wheel Hub Bearing Units,12828,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-05,OEM_C_Eco,Hybrid,Miniature & Hybrid Ceramic Bearings,896,105.1,20.24,2.18,6.32,139.62,110.67,Pre-Euro 7,Normal Production
+2025-06,OEM_A_Global,ICE,Deep Groove Ball Bearings,18879,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_A_Global,ICE,Angular Contact Ball Bearings,4099,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_A_Global,ICE,Self-Aligning Ball Bearings,2398,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_A_Global,ICE,Thrust Ball Bearings,3656,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_A_Global,ICE,Wheel Hub Bearing Units,30237,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_A_Global,ICE,Miniature & Hybrid Ceramic Bearings,1158,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_A_Global,EV,Deep Groove Ball Bearings,19145,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_A_Global,EV,Angular Contact Ball Bearings,6170,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_A_Global,EV,Self-Aligning Ball Bearings,2389,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_A_Global,EV,Thrust Ball Bearings,852,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_A_Global,EV,Wheel Hub Bearing Units,30453,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_A_Global,EV,Miniature & Hybrid Ceramic Bearings,2030,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_A_Global,Hybrid,Deep Groove Ball Bearings,18999,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_A_Global,Hybrid,Angular Contact Ball Bearings,5866,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_A_Global,Hybrid,Self-Aligning Ball Bearings,2409,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_A_Global,Hybrid,Thrust Ball Bearings,816,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_A_Global,Hybrid,Wheel Hub Bearing Units,30061,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_A_Global,Hybrid,Miniature & Hybrid Ceramic Bearings,1650,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_B_Euro,ICE,Deep Groove Ball Bearings,13308,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_B_Euro,ICE,Angular Contact Ball Bearings,2891,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_B_Euro,ICE,Self-Aligning Ball Bearings,1815,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_B_Euro,ICE,Thrust Ball Bearings,2184,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_B_Euro,ICE,Wheel Hub Bearing Units,20545,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_B_Euro,ICE,Miniature & Hybrid Ceramic Bearings,809,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_B_Euro,EV,Deep Groove Ball Bearings,13672,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_B_Euro,EV,Angular Contact Ball Bearings,4102,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_B_Euro,EV,Self-Aligning Ball Bearings,1516,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_B_Euro,EV,Thrust Ball Bearings,542,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_B_Euro,EV,Wheel Hub Bearing Units,18778,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_B_Euro,EV,Miniature & Hybrid Ceramic Bearings,1624,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_B_Euro,Hybrid,Deep Groove Ball Bearings,12218,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_B_Euro,Hybrid,Angular Contact Ball Bearings,4293,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_B_Euro,Hybrid,Self-Aligning Ball Bearings,1634,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_B_Euro,Hybrid,Thrust Ball Bearings,616,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_B_Euro,Hybrid,Wheel Hub Bearing Units,20591,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_B_Euro,Hybrid,Miniature & Hybrid Ceramic Bearings,1196,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_C_Eco,ICE,Deep Groove Ball Bearings,7427,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_C_Eco,ICE,Angular Contact Ball Bearings,1598,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_C_Eco,ICE,Self-Aligning Ball Bearings,867,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_C_Eco,ICE,Thrust Ball Bearings,1524,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_C_Eco,ICE,Wheel Hub Bearing Units,13215,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_C_Eco,ICE,Miniature & Hybrid Ceramic Bearings,476,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_C_Eco,EV,Deep Groove Ball Bearings,7026,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_C_Eco,EV,Angular Contact Ball Bearings,3334,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_C_Eco,EV,Self-Aligning Ball Bearings,988,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_C_Eco,EV,Thrust Ball Bearings,387,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_C_Eco,EV,Wheel Hub Bearing Units,11579,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_C_Eco,EV,Miniature & Hybrid Ceramic Bearings,1321,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_C_Eco,Hybrid,Deep Groove Ball Bearings,7873,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_C_Eco,Hybrid,Angular Contact Ball Bearings,3073,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_C_Eco,Hybrid,Self-Aligning Ball Bearings,954,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_C_Eco,Hybrid,Thrust Ball Bearings,368,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_C_Eco,Hybrid,Wheel Hub Bearing Units,11889,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-06,OEM_C_Eco,Hybrid,Miniature & Hybrid Ceramic Bearings,918,106.47,21.28,2.22,6.2,134.34,110.85,Euro 7 Transition,Platform Upgrade
+2025-07,OEM_A_Global,ICE,Deep Groove Ball Bearings,19897,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_A_Global,ICE,Angular Contact Ball Bearings,4402,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_A_Global,ICE,Self-Aligning Ball Bearings,3431,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_A_Global,ICE,Thrust Ball Bearings,3431,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_A_Global,ICE,Wheel Hub Bearing Units,30830,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_A_Global,ICE,Miniature & Hybrid Ceramic Bearings,1263,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_A_Global,EV,Deep Groove Ball Bearings,20003,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_A_Global,EV,Angular Contact Ball Bearings,5727,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_A_Global,EV,Self-Aligning Ball Bearings,3515,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_A_Global,EV,Thrust Ball Bearings,843,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_A_Global,EV,Wheel Hub Bearing Units,32452,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_A_Global,EV,Miniature & Hybrid Ceramic Bearings,2065,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_A_Global,Hybrid,Deep Groove Ball Bearings,20864,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_A_Global,Hybrid,Angular Contact Ball Bearings,6228,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_A_Global,Hybrid,Self-Aligning Ball Bearings,3335,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_A_Global,Hybrid,Thrust Ball Bearings,869,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_A_Global,Hybrid,Wheel Hub Bearing Units,32133,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_A_Global,Hybrid,Miniature & Hybrid Ceramic Bearings,1699,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_B_Euro,ICE,Deep Groove Ball Bearings,12744,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_B_Euro,ICE,Angular Contact Ball Bearings,2837,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_B_Euro,ICE,Self-Aligning Ball Bearings,2345,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_B_Euro,ICE,Thrust Ball Bearings,1936,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_B_Euro,ICE,Wheel Hub Bearing Units,20457,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_B_Euro,ICE,Miniature & Hybrid Ceramic Bearings,698,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_B_Euro,EV,Deep Groove Ball Bearings,13090,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_B_Euro,EV,Angular Contact Ball Bearings,4420,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_B_Euro,EV,Self-Aligning Ball Bearings,2390,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_B_Euro,EV,Thrust Ball Bearings,562,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_B_Euro,EV,Wheel Hub Bearing Units,22138,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_B_Euro,EV,Miniature & Hybrid Ceramic Bearings,1592,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_B_Euro,Hybrid,Deep Groove Ball Bearings,12375,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_B_Euro,Hybrid,Angular Contact Ball Bearings,4266,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_B_Euro,Hybrid,Self-Aligning Ball Bearings,2278,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_B_Euro,Hybrid,Thrust Ball Bearings,559,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_B_Euro,Hybrid,Wheel Hub Bearing Units,19929,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_B_Euro,Hybrid,Miniature & Hybrid Ceramic Bearings,1226,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_C_Eco,ICE,Deep Groove Ball Bearings,7615,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_C_Eco,ICE,Angular Contact Ball Bearings,1633,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_C_Eco,ICE,Self-Aligning Ball Bearings,1436,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_C_Eco,ICE,Thrust Ball Bearings,1009,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_C_Eco,ICE,Wheel Hub Bearing Units,12921,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_C_Eco,ICE,Miniature & Hybrid Ceramic Bearings,447,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_C_Eco,EV,Deep Groove Ball Bearings,8234,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_C_Eco,EV,Angular Contact Ball Bearings,3268,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_C_Eco,EV,Self-Aligning Ball Bearings,1301,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_C_Eco,EV,Thrust Ball Bearings,365,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_C_Eco,EV,Wheel Hub Bearing Units,12911,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_C_Eco,EV,Miniature & Hybrid Ceramic Bearings,1322,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_C_Eco,Hybrid,Deep Groove Ball Bearings,8212,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_C_Eco,Hybrid,Angular Contact Ball Bearings,2870,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_C_Eco,Hybrid,Self-Aligning Ball Bearings,1344,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_C_Eco,Hybrid,Thrust Ball Bearings,314,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_C_Eco,Hybrid,Wheel Hub Bearing Units,14402,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-07,OEM_C_Eco,Hybrid,Miniature & Hybrid Ceramic Bearings,932,110.55,21.55,2.23,6.11,123.09,108.07,Euro 7 Transition,Normal Production
+2025-08,OEM_A_Global,ICE,Deep Groove Ball Bearings,19575,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_A_Global,ICE,Angular Contact Ball Bearings,4342,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_A_Global,ICE,Self-Aligning Ball Bearings,3348,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_A_Global,ICE,Thrust Ball Bearings,3466,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_A_Global,ICE,Wheel Hub Bearing Units,31652,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_A_Global,ICE,Miniature & Hybrid Ceramic Bearings,1237,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_A_Global,EV,Deep Groove Ball Bearings,19660,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_A_Global,EV,Angular Contact Ball Bearings,5786,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_A_Global,EV,Self-Aligning Ball Bearings,3332,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_A_Global,EV,Thrust Ball Bearings,770,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_A_Global,EV,Wheel Hub Bearing Units,30375,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_A_Global,EV,Miniature & Hybrid Ceramic Bearings,2149,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_A_Global,Hybrid,Deep Groove Ball Bearings,20747,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_A_Global,Hybrid,Angular Contact Ball Bearings,5851,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_A_Global,Hybrid,Self-Aligning Ball Bearings,3417,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_A_Global,Hybrid,Thrust Ball Bearings,849,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_A_Global,Hybrid,Wheel Hub Bearing Units,33131,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_A_Global,Hybrid,Miniature & Hybrid Ceramic Bearings,1696,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_B_Euro,ICE,Deep Groove Ball Bearings,13219,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_B_Euro,ICE,Angular Contact Ball Bearings,2508,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_B_Euro,ICE,Self-Aligning Ball Bearings,2079,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_B_Euro,ICE,Thrust Ball Bearings,2130,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_B_Euro,ICE,Wheel Hub Bearing Units,20402,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_B_Euro,ICE,Miniature & Hybrid Ceramic Bearings,728,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_B_Euro,EV,Deep Groove Ball Bearings,12960,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_B_Euro,EV,Angular Contact Ball Bearings,4085,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_B_Euro,EV,Self-Aligning Ball Bearings,2408,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_B_Euro,EV,Thrust Ball Bearings,586,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_B_Euro,EV,Wheel Hub Bearing Units,20851,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_B_Euro,EV,Miniature & Hybrid Ceramic Bearings,1755,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_B_Euro,Hybrid,Deep Groove Ball Bearings,13322,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_B_Euro,Hybrid,Angular Contact Ball Bearings,4129,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_B_Euro,Hybrid,Self-Aligning Ball Bearings,2392,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_B_Euro,Hybrid,Thrust Ball Bearings,576,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_B_Euro,Hybrid,Wheel Hub Bearing Units,20233,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_B_Euro,Hybrid,Miniature & Hybrid Ceramic Bearings,1231,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_C_Eco,ICE,Deep Groove Ball Bearings,7864,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_C_Eco,ICE,Angular Contact Ball Bearings,1223,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_C_Eco,ICE,Self-Aligning Ball Bearings,1492,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_C_Eco,ICE,Thrust Ball Bearings,1336,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_C_Eco,ICE,Wheel Hub Bearing Units,12196,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_C_Eco,ICE,Miniature & Hybrid Ceramic Bearings,528,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_C_Eco,EV,Deep Groove Ball Bearings,7976,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_C_Eco,EV,Angular Contact Ball Bearings,3004,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_C_Eco,EV,Self-Aligning Ball Bearings,1340,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_C_Eco,EV,Thrust Ball Bearings,324,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_C_Eco,EV,Wheel Hub Bearing Units,13064,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_C_Eco,EV,Miniature & Hybrid Ceramic Bearings,1339,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_C_Eco,Hybrid,Deep Groove Ball Bearings,8437,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_C_Eco,Hybrid,Angular Contact Ball Bearings,3091,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_C_Eco,Hybrid,Self-Aligning Ball Bearings,1376,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_C_Eco,Hybrid,Thrust Ball Bearings,322,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_C_Eco,Hybrid,Wheel Hub Bearing Units,12689,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-08,OEM_C_Eco,Hybrid,Miniature & Hybrid Ceramic Bearings,978,110.7,22.03,2.38,6.02,110.29,109.05,Euro 7 Transition,Normal Production
+2025-09,OEM_A_Global,ICE,Deep Groove Ball Bearings,20087,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_A_Global,ICE,Angular Contact Ball Bearings,4104,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_A_Global,ICE,Self-Aligning Ball Bearings,3369,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_A_Global,ICE,Thrust Ball Bearings,3512,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_A_Global,ICE,Wheel Hub Bearing Units,30671,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_A_Global,ICE,Miniature & Hybrid Ceramic Bearings,1227,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_A_Global,EV,Deep Groove Ball Bearings,19505,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_A_Global,EV,Angular Contact Ball Bearings,6090,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_A_Global,EV,Self-Aligning Ball Bearings,3283,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_A_Global,EV,Thrust Ball Bearings,785,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_A_Global,EV,Wheel Hub Bearing Units,30696,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_A_Global,EV,Miniature & Hybrid Ceramic Bearings,2143,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_A_Global,Hybrid,Deep Groove Ball Bearings,19966,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_A_Global,Hybrid,Angular Contact Ball Bearings,5795,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_A_Global,Hybrid,Self-Aligning Ball Bearings,3423,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_A_Global,Hybrid,Thrust Ball Bearings,790,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_A_Global,Hybrid,Wheel Hub Bearing Units,31633,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_A_Global,Hybrid,Miniature & Hybrid Ceramic Bearings,1610,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_B_Euro,ICE,Deep Groove Ball Bearings,12898,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_B_Euro,ICE,Angular Contact Ball Bearings,2709,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_B_Euro,ICE,Self-Aligning Ball Bearings,2153,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_B_Euro,ICE,Thrust Ball Bearings,1942,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_B_Euro,ICE,Wheel Hub Bearing Units,21719,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_B_Euro,ICE,Miniature & Hybrid Ceramic Bearings,771,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_B_Euro,EV,Deep Groove Ball Bearings,13642,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_B_Euro,EV,Angular Contact Ball Bearings,4150,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_B_Euro,EV,Self-Aligning Ball Bearings,2292,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_B_Euro,EV,Thrust Ball Bearings,603,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_B_Euro,EV,Wheel Hub Bearing Units,19632,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_B_Euro,EV,Miniature & Hybrid Ceramic Bearings,1701,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_B_Euro,Hybrid,Deep Groove Ball Bearings,13513,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_B_Euro,Hybrid,Angular Contact Ball Bearings,4335,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_B_Euro,Hybrid,Self-Aligning Ball Bearings,2277,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_B_Euro,Hybrid,Thrust Ball Bearings,541,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_B_Euro,Hybrid,Wheel Hub Bearing Units,21167,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_B_Euro,Hybrid,Miniature & Hybrid Ceramic Bearings,1262,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_C_Eco,ICE,Deep Groove Ball Bearings,8849,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_C_Eco,ICE,Angular Contact Ball Bearings,1550,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_C_Eco,ICE,Self-Aligning Ball Bearings,1433,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_C_Eco,ICE,Thrust Ball Bearings,888,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_C_Eco,ICE,Wheel Hub Bearing Units,12904,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_C_Eco,ICE,Miniature & Hybrid Ceramic Bearings,478,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_C_Eco,EV,Deep Groove Ball Bearings,8462,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_C_Eco,EV,Angular Contact Ball Bearings,3092,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_C_Eco,EV,Self-Aligning Ball Bearings,1428,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_C_Eco,EV,Thrust Ball Bearings,412,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_C_Eco,EV,Wheel Hub Bearing Units,13719,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_C_Eco,EV,Miniature & Hybrid Ceramic Bearings,1424,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_C_Eco,Hybrid,Deep Groove Ball Bearings,8865,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_C_Eco,Hybrid,Angular Contact Ball Bearings,3094,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_C_Eco,Hybrid,Self-Aligning Ball Bearings,1196,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_C_Eco,Hybrid,Thrust Ball Bearings,319,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_C_Eco,Hybrid,Wheel Hub Bearing Units,12074,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-09,OEM_C_Eco,Hybrid,Miniature & Hybrid Ceramic Bearings,953,110.2,23.53,2.32,5.84,95.83,107.45,Euro 7 Transition,Normal Production
+2025-10,OEM_A_Global,ICE,Deep Groove Ball Bearings,20364,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_A_Global,ICE,Angular Contact Ball Bearings,4635,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_A_Global,ICE,Self-Aligning Ball Bearings,3392,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_A_Global,ICE,Thrust Ball Bearings,3267,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_A_Global,ICE,Wheel Hub Bearing Units,33173,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_A_Global,ICE,Miniature & Hybrid Ceramic Bearings,1089,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_A_Global,EV,Deep Groove Ball Bearings,20473,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_A_Global,EV,Angular Contact Ball Bearings,6137,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_A_Global,EV,Self-Aligning Ball Bearings,3212,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_A_Global,EV,Thrust Ball Bearings,874,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_A_Global,EV,Wheel Hub Bearing Units,32879,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_A_Global,EV,Miniature & Hybrid Ceramic Bearings,2125,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_A_Global,Hybrid,Deep Groove Ball Bearings,20671,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_A_Global,Hybrid,Angular Contact Ball Bearings,6437,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_A_Global,Hybrid,Self-Aligning Ball Bearings,3378,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_A_Global,Hybrid,Thrust Ball Bearings,847,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_A_Global,Hybrid,Wheel Hub Bearing Units,32400,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_A_Global,Hybrid,Miniature & Hybrid Ceramic Bearings,1630,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_B_Euro,ICE,Deep Groove Ball Bearings,13985,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_B_Euro,ICE,Angular Contact Ball Bearings,2528,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_B_Euro,ICE,Self-Aligning Ball Bearings,2247,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_B_Euro,ICE,Thrust Ball Bearings,1828,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_B_Euro,ICE,Wheel Hub Bearing Units,22071,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_B_Euro,ICE,Miniature & Hybrid Ceramic Bearings,816,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_B_Euro,EV,Deep Groove Ball Bearings,14089,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_B_Euro,EV,Angular Contact Ball Bearings,4280,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_B_Euro,EV,Self-Aligning Ball Bearings,2213,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_B_Euro,EV,Thrust Ball Bearings,530,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_B_Euro,EV,Wheel Hub Bearing Units,21517,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_B_Euro,EV,Miniature & Hybrid Ceramic Bearings,1765,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_B_Euro,Hybrid,Deep Groove Ball Bearings,13948,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_B_Euro,Hybrid,Angular Contact Ball Bearings,4198,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_B_Euro,Hybrid,Self-Aligning Ball Bearings,2326,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_B_Euro,Hybrid,Thrust Ball Bearings,600,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_B_Euro,Hybrid,Wheel Hub Bearing Units,22032,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_B_Euro,Hybrid,Miniature & Hybrid Ceramic Bearings,1367,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_C_Eco,ICE,Deep Groove Ball Bearings,8094,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_C_Eco,ICE,Angular Contact Ball Bearings,1251,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_C_Eco,ICE,Self-Aligning Ball Bearings,1222,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_C_Eco,ICE,Thrust Ball Bearings,1074,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_C_Eco,ICE,Wheel Hub Bearing Units,14007,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_C_Eco,ICE,Miniature & Hybrid Ceramic Bearings,497,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_C_Eco,EV,Deep Groove Ball Bearings,8621,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_C_Eco,EV,Angular Contact Ball Bearings,2957,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_C_Eco,EV,Self-Aligning Ball Bearings,1644,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_C_Eco,EV,Thrust Ball Bearings,353,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_C_Eco,EV,Wheel Hub Bearing Units,13680,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_C_Eco,EV,Miniature & Hybrid Ceramic Bearings,1482,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_C_Eco,Hybrid,Deep Groove Ball Bearings,8721,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_C_Eco,Hybrid,Angular Contact Ball Bearings,3227,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_C_Eco,Hybrid,Self-Aligning Ball Bearings,1320,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_C_Eco,Hybrid,Thrust Ball Bearings,364,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_C_Eco,Hybrid,Wheel Hub Bearing Units,14744,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-10,OEM_C_Eco,Hybrid,Miniature & Hybrid Ceramic Bearings,1040,113.09,23.66,2.29,5.86,94.07,105.31,Euro 7 Transition,Normal Production
+2025-11,OEM_A_Global,ICE,Deep Groove Ball Bearings,21126,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_A_Global,ICE,Angular Contact Ball Bearings,4197,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_A_Global,ICE,Self-Aligning Ball Bearings,3261,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_A_Global,ICE,Thrust Ball Bearings,3181,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_A_Global,ICE,Wheel Hub Bearing Units,33003,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_A_Global,ICE,Miniature & Hybrid Ceramic Bearings,1254,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_A_Global,EV,Deep Groove Ball Bearings,19483,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_A_Global,EV,Angular Contact Ball Bearings,6325,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_A_Global,EV,Self-Aligning Ball Bearings,3344,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_A_Global,EV,Thrust Ball Bearings,827,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_A_Global,EV,Wheel Hub Bearing Units,32363,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_A_Global,EV,Miniature & Hybrid Ceramic Bearings,2092,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_A_Global,Hybrid,Deep Groove Ball Bearings,20741,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_A_Global,Hybrid,Angular Contact Ball Bearings,6033,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_A_Global,Hybrid,Self-Aligning Ball Bearings,3231,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_A_Global,Hybrid,Thrust Ball Bearings,801,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_A_Global,Hybrid,Wheel Hub Bearing Units,32768,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_A_Global,Hybrid,Miniature & Hybrid Ceramic Bearings,1771,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_B_Euro,ICE,Deep Groove Ball Bearings,13423,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_B_Euro,ICE,Angular Contact Ball Bearings,2399,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_B_Euro,ICE,Self-Aligning Ball Bearings,2215,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_B_Euro,ICE,Thrust Ball Bearings,1759,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_B_Euro,ICE,Wheel Hub Bearing Units,20362,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_B_Euro,ICE,Miniature & Hybrid Ceramic Bearings,797,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_B_Euro,EV,Deep Groove Ball Bearings,13437,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_B_Euro,EV,Angular Contact Ball Bearings,4558,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_B_Euro,EV,Self-Aligning Ball Bearings,2424,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_B_Euro,EV,Thrust Ball Bearings,593,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_B_Euro,EV,Wheel Hub Bearing Units,21818,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_B_Euro,EV,Miniature & Hybrid Ceramic Bearings,1720,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_B_Euro,Hybrid,Deep Groove Ball Bearings,14839,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_B_Euro,Hybrid,Angular Contact Ball Bearings,4431,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_B_Euro,Hybrid,Self-Aligning Ball Bearings,2241,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_B_Euro,Hybrid,Thrust Ball Bearings,559,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_B_Euro,Hybrid,Wheel Hub Bearing Units,22099,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_B_Euro,Hybrid,Miniature & Hybrid Ceramic Bearings,1280,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_C_Eco,ICE,Deep Groove Ball Bearings,8183,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_C_Eco,ICE,Angular Contact Ball Bearings,1390,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_C_Eco,ICE,Self-Aligning Ball Bearings,1396,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_C_Eco,ICE,Thrust Ball Bearings,668,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_C_Eco,ICE,Wheel Hub Bearing Units,13309,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_C_Eco,ICE,Miniature & Hybrid Ceramic Bearings,505,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_C_Eco,EV,Deep Groove Ball Bearings,8343,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_C_Eco,EV,Angular Contact Ball Bearings,3519,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_C_Eco,EV,Self-Aligning Ball Bearings,1134,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_C_Eco,EV,Thrust Ball Bearings,382,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_C_Eco,EV,Wheel Hub Bearing Units,14485,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_C_Eco,EV,Miniature & Hybrid Ceramic Bearings,1371,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_C_Eco,Hybrid,Deep Groove Ball Bearings,8299,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_C_Eco,Hybrid,Angular Contact Ball Bearings,3144,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_C_Eco,Hybrid,Self-Aligning Ball Bearings,1259,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_C_Eco,Hybrid,Thrust Ball Bearings,326,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_C_Eco,Hybrid,Wheel Hub Bearing Units,13071,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-11,OEM_C_Eco,Hybrid,Miniature & Hybrid Ceramic Bearings,1075,112.94,24.38,2.41,5.82,99.34,106.18,Euro 7 Transition,Platform Upgrade
+2025-12,OEM_A_Global,ICE,Deep Groove Ball Bearings,21042,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_A_Global,ICE,Angular Contact Ball Bearings,4554,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_A_Global,ICE,Self-Aligning Ball Bearings,3432,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_A_Global,ICE,Thrust Ball Bearings,2930,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_A_Global,ICE,Wheel Hub Bearing Units,32448,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_A_Global,ICE,Miniature & Hybrid Ceramic Bearings,1224,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_A_Global,EV,Deep Groove Ball Bearings,19963,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_A_Global,EV,Angular Contact Ball Bearings,6171,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_A_Global,EV,Self-Aligning Ball Bearings,3335,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_A_Global,EV,Thrust Ball Bearings,828,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_A_Global,EV,Wheel Hub Bearing Units,33189,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_A_Global,EV,Miniature & Hybrid Ceramic Bearings,2205,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_A_Global,Hybrid,Deep Groove Ball Bearings,20393,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_A_Global,Hybrid,Angular Contact Ball Bearings,6260,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_A_Global,Hybrid,Self-Aligning Ball Bearings,3251,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_A_Global,Hybrid,Thrust Ball Bearings,858,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_A_Global,Hybrid,Wheel Hub Bearing Units,33119,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_A_Global,Hybrid,Miniature & Hybrid Ceramic Bearings,1675,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_B_Euro,ICE,Deep Groove Ball Bearings,13879,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_B_Euro,ICE,Angular Contact Ball Bearings,2449,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_B_Euro,ICE,Self-Aligning Ball Bearings,2332,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_B_Euro,ICE,Thrust Ball Bearings,1672,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_B_Euro,ICE,Wheel Hub Bearing Units,21528,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_B_Euro,ICE,Miniature & Hybrid Ceramic Bearings,852,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_B_Euro,EV,Deep Groove Ball Bearings,13363,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_B_Euro,EV,Angular Contact Ball Bearings,4146,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_B_Euro,EV,Self-Aligning Ball Bearings,2084,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_B_Euro,EV,Thrust Ball Bearings,578,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_B_Euro,EV,Wheel Hub Bearing Units,21073,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_B_Euro,EV,Miniature & Hybrid Ceramic Bearings,1870,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_B_Euro,Hybrid,Deep Groove Ball Bearings,12675,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_B_Euro,Hybrid,Angular Contact Ball Bearings,4767,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_B_Euro,Hybrid,Self-Aligning Ball Bearings,2261,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_B_Euro,Hybrid,Thrust Ball Bearings,557,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_B_Euro,Hybrid,Wheel Hub Bearing Units,21515,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_B_Euro,Hybrid,Miniature & Hybrid Ceramic Bearings,1311,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_C_Eco,ICE,Deep Groove Ball Bearings,8553,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_C_Eco,ICE,Angular Contact Ball Bearings,1720,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_C_Eco,ICE,Self-Aligning Ball Bearings,1411,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_C_Eco,ICE,Thrust Ball Bearings,672,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_C_Eco,ICE,Wheel Hub Bearing Units,13433,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_C_Eco,ICE,Miniature & Hybrid Ceramic Bearings,497,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_C_Eco,EV,Deep Groove Ball Bearings,8726,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_C_Eco,EV,Angular Contact Ball Bearings,2886,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_C_Eco,EV,Self-Aligning Ball Bearings,1265,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_C_Eco,EV,Thrust Ball Bearings,372,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_C_Eco,EV,Wheel Hub Bearing Units,13753,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_C_Eco,EV,Miniature & Hybrid Ceramic Bearings,1473,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_C_Eco,Hybrid,Deep Groove Ball Bearings,8581,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_C_Eco,Hybrid,Angular Contact Ball Bearings,3298,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_C_Eco,Hybrid,Self-Aligning Ball Bearings,1346,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_C_Eco,Hybrid,Thrust Ball Bearings,326,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_C_Eco,Hybrid,Wheel Hub Bearing Units,13768,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production
+2025-12,OEM_C_Eco,Hybrid,Miniature & Hybrid Ceramic Bearings,942,114.3,24.57,2.34,5.91,110.43,107.31,Euro 7 Transition,Normal Production

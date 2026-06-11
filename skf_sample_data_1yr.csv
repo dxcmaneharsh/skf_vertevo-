@@ -1,0 +1,73 @@
+Month,Product_Category,Sales_Volume,Light_Vehicle_Production_Index,EV_Hybrid_Penetration_Pct,GDP_Growth_Pct,Interest_Rate_Pct,Steel_Price_Index,Energy_Logistics_Index
+2025-01,Deep Groove Ball Bearings,54383,100.75,18.07,2.07,6.52,121.03,111.28
+2025-01,Angular Contact Ball Bearings,39386,100.75,18.07,2.07,6.52,121.03,111.28
+2025-01,Self-Aligning Ball Bearings,9728,100.75,18.07,2.07,6.52,121.03,111.28
+2025-01,Thrust Ball Bearings,15131,100.75,18.07,2.07,6.52,121.03,111.28
+2025-01,Wheel Hub Bearing Units,95501,100.75,18.07,2.07,6.52,121.03,111.28
+2025-01,Miniature & Hybrid Ceramic Bearings,22444,100.75,18.07,2.07,6.52,121.03,111.28
+2025-02,Deep Groove Ball Bearings,55350,101.16,18.06,2.13,6.24,127.21,111.09
+2025-02,Angular Contact Ball Bearings,40256,101.16,18.06,2.13,6.24,127.21,111.09
+2025-02,Self-Aligning Ball Bearings,9324,101.16,18.06,2.13,6.24,127.21,111.09
+2025-02,Thrust Ball Bearings,14568,101.16,18.06,2.13,6.24,127.21,111.09
+2025-02,Wheel Hub Bearing Units,97043,101.16,18.06,2.13,6.24,127.21,111.09
+2025-02,Miniature & Hybrid Ceramic Bearings,21743,101.16,18.06,2.13,6.24,127.21,111.09
+2025-03,Deep Groove Ball Bearings,56091,103.7,18.76,2.1,6.24,142.62,109.07
+2025-03,Angular Contact Ball Bearings,40662,103.7,18.76,2.1,6.24,142.62,109.07
+2025-03,Self-Aligning Ball Bearings,9501,103.7,18.76,2.1,6.24,142.62,109.07
+2025-03,Thrust Ball Bearings,14306,103.7,18.76,2.1,6.24,142.62,109.07
+2025-03,Wheel Hub Bearing Units,91545,103.7,18.76,2.1,6.24,142.62,109.07
+2025-03,Miniature & Hybrid Ceramic Bearings,22732,103.7,18.76,2.1,6.24,142.62,109.07
+2025-04,Deep Groove Ball Bearings,56709,106.38,19.74,2.2,6.33,143.84,108.3
+2025-04,Angular Contact Ball Bearings,41207,106.38,19.74,2.2,6.33,143.84,108.3
+2025-04,Self-Aligning Ball Bearings,9459,106.38,19.74,2.2,6.33,143.84,108.3
+2025-04,Thrust Ball Bearings,14261,106.38,19.74,2.2,6.33,143.84,108.3
+2025-04,Wheel Hub Bearing Units,103661,106.38,19.74,2.2,6.33,143.84,108.3
+2025-04,Miniature & Hybrid Ceramic Bearings,23827,106.38,19.74,2.2,6.33,143.84,108.3
+2025-05,Deep Groove Ball Bearings,56975,105.1,20.24,2.18,6.32,139.62,110.67
+2025-05,Angular Contact Ball Bearings,42245,105.1,20.24,2.18,6.32,139.62,110.67
+2025-05,Self-Aligning Ball Bearings,9020,105.1,20.24,2.18,6.32,139.62,110.67
+2025-05,Thrust Ball Bearings,13789,105.1,20.24,2.18,6.32,139.62,110.67
+2025-05,Wheel Hub Bearing Units,98726,105.1,20.24,2.18,6.32,139.62,110.67
+2025-05,Miniature & Hybrid Ceramic Bearings,25079,105.1,20.24,2.18,6.32,139.62,110.67
+2025-06,Deep Groove Ball Bearings,57489,106.47,21.28,2.22,6.2,134.34,110.85
+2025-06,Angular Contact Ball Bearings,43712,106.47,21.28,2.22,6.2,134.34,110.85
+2025-06,Self-Aligning Ball Bearings,9491,106.47,21.28,2.22,6.2,134.34,110.85
+2025-06,Thrust Ball Bearings,13032,106.47,21.28,2.22,6.2,134.34,110.85
+2025-06,Wheel Hub Bearing Units,102402,106.47,21.28,2.22,6.2,134.34,110.85
+2025-06,Miniature & Hybrid Ceramic Bearings,25411,106.47,21.28,2.22,6.2,134.34,110.85
+2025-07,Deep Groove Ball Bearings,61561,110.55,21.55,2.23,6.11,123.09,108.07
+2025-07,Angular Contact Ball Bearings,43309,110.55,21.55,2.23,6.11,123.09,108.07
+2025-07,Self-Aligning Ball Bearings,11350,110.55,21.55,2.23,6.11,123.09,108.07
+2025-07,Thrust Ball Bearings,12639,110.55,21.55,2.23,6.11,123.09,108.07
+2025-07,Wheel Hub Bearing Units,106995,110.55,21.55,2.23,6.11,123.09,108.07
+2025-07,Miniature & Hybrid Ceramic Bearings,26157,110.55,21.55,2.23,6.11,123.09,108.07
+2025-08,Deep Groove Ball Bearings,59694,110.7,22.03,2.38,6.02,110.29,109.05
+2025-08,Angular Contact Ball Bearings,44097,110.7,22.03,2.38,6.02,110.29,109.05
+2025-08,Self-Aligning Ball Bearings,11024,110.7,22.03,2.38,6.02,110.29,109.05
+2025-08,Thrust Ball Bearings,12698,110.7,22.03,2.38,6.02,110.29,109.05
+2025-08,Wheel Hub Bearing Units,101179,110.7,22.03,2.38,6.02,110.29,109.05
+2025-08,Miniature & Hybrid Ceramic Bearings,25851,110.7,22.03,2.38,6.02,110.29,109.05
+2025-09,Deep Groove Ball Bearings,59337,110.2,23.53,2.32,5.84,95.83,107.45
+2025-09,Angular Contact Ball Bearings,46520,110.2,23.53,2.32,5.84,95.83,107.45
+2025-09,Self-Aligning Ball Bearings,10770,110.2,23.53,2.32,5.84,95.83,107.45
+2025-09,Thrust Ball Bearings,13219,110.2,23.53,2.32,5.84,95.83,107.45
+2025-09,Wheel Hub Bearing Units,104010,110.2,23.53,2.32,5.84,95.83,107.45
+2025-09,Miniature & Hybrid Ceramic Bearings,27064,110.2,23.53,2.32,5.84,95.83,107.45
+2025-10,Deep Groove Ball Bearings,63173,113.09,23.66,2.29,5.86,94.07,105.31
+2025-10,Angular Contact Ball Bearings,45652,113.09,23.66,2.29,5.86,94.07,105.31
+2025-10,Self-Aligning Ball Bearings,11056,113.09,23.66,2.29,5.86,94.07,105.31
+2025-10,Thrust Ball Bearings,12822,113.09,23.66,2.29,5.86,94.07,105.31
+2025-10,Wheel Hub Bearing Units,105705,113.09,23.66,2.29,5.86,94.07,105.31
+2025-10,Miniature & Hybrid Ceramic Bearings,27358,113.09,23.66,2.29,5.86,94.07,105.31
+2025-11,Deep Groove Ball Bearings,62429,112.94,24.38,2.41,5.82,99.34,106.18
+2025-11,Angular Contact Ball Bearings,47729,112.94,24.38,2.41,5.82,99.34,106.18
+2025-11,Self-Aligning Ball Bearings,10690,112.94,24.38,2.41,5.82,99.34,106.18
+2025-11,Thrust Ball Bearings,11471,112.94,24.38,2.41,5.82,99.34,106.18
+2025-11,Wheel Hub Bearing Units,110945,112.94,24.38,2.41,5.82,99.34,106.18
+2025-11,Miniature & Hybrid Ceramic Bearings,28049,112.94,24.38,2.41,5.82,99.34,106.18
+2025-12,Deep Groove Ball Bearings,63166,114.3,24.57,2.34,5.91,110.43,107.31
+2025-12,Angular Contact Ball Bearings,47694,114.3,24.57,2.34,5.91,110.43,107.31
+2025-12,Self-Aligning Ball Bearings,10829,114.3,24.57,2.34,5.91,110.43,107.31
+2025-12,Thrust Ball Bearings,11792,114.3,24.57,2.34,5.91,110.43,107.31
+2025-12,Wheel Hub Bearing Units,109797,114.3,24.57,2.34,5.91,110.43,107.31
+2025-12,Miniature & Hybrid Ceramic Bearings,27865,114.3,24.57,2.34,5.91,110.43,107.31

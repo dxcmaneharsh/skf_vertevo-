@@ -1,0 +1,7 @@
+applications:
+- name: skf-vertevo-demo
+  random-route: true
+  memory: 2G
+  disk_quota: 2G
+  buildpacks:
+    - python_buildpack
